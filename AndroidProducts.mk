@@ -1,7 +1,7 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/nad_lavender.mk
+    $(LOCAL_DIR)/fluid_lavender.mk
 
 COMMON_LUNCH_CHOICES := \
-    nad_lavender-user \
-    nad_lavender-userdebug \
-    nad_lavender-eng
+    fluid_lavender-user \
+    fluid_lavender-userdebug \
+    fluid_lavender-eng
