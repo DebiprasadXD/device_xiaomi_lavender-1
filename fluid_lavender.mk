@@ -34,6 +34,8 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 
 BUILD_FINGERPRINT :="google/coral/coral:11/RQ3A.211001.001/7641976:user/release-keys"
 
+# Fluid stuff
+FLUID_BUILD_TYPE := UNOFFICIAL
 PRODUCT_PRODUCT_PROPERTIES += \
-  ro.fluid.maintainer=DEBIPRASAD \
-  ro.fluid.cpu=SDM660
+ro.fluid.maintainer=DEBIPRASAD
+ro.fluid.cpu=SDM660
