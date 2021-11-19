@@ -1,7 +1,7 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/fluid_lavender.mk
+    $(LOCAL_DIR)/arrow_lavender.mk
 
 COMMON_LUNCH_CHOICES := \
-    fluid_lavender-user \
-    fluid_lavender-userdebug \
-    fluid_lavender-eng
+    arrow_lavender-user \
+    arrow_lavender-userdebug \
+    arrow_lavender-eng
